@@ -10,4 +10,3 @@
 
 Макет сайта:
 [Cats site maket on figma](https://www.figma.com/proto/zRCm1qzHYt084y6bGbI8Wy/Untitled?node-id=20-50&node-type=CANVAS&t=KRQGSURxPiizBqhs-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=20%3A50)
-
